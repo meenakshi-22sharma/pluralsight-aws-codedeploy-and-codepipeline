@@ -1,0 +1,12 @@
+{
+  "name": "globomantics-app",
+  "version": "1.0.0",
+  "description": "Globomantics sample application for CodeDeploy demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
